@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/samuel/Desktop/Projects/flutter/INSIGHT/insight/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/Users/samuel/Desktop/Projects/flutter/INSIGHT/insight/build/app"
+    bootClassPath="/Users/samuel/Library/Android/sdk/platforms/android-33/android.jar:/Users/samuel/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

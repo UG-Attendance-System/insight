@@ -1,0 +1,4 @@
+#Sun Apr 23 21:53:08 GMT 2023
+base.0=/Users/samuel/Desktop/Projects/flutter/INSIGHT/insight/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
